@@ -58,3 +58,6 @@
 [submodule "Packages/Application/TYPO3.Eel"]
 	path = Packages/Application/TYPO3.Eel
 	url = git://git.typo3.org/FLOW3/Packages/TYPO3.Eel.git
+[submodule "Packages/Sites/TYPO3.T3Con12StuttgartTypo3Org"]
+	path = Packages/Sites/TYPO3.T3Con12StuttgartTypo3Org
+	url = git://git.typo3.org/FLOW3/Packages/TYPO3.T3Con12StuttgartTypo3Org.git
